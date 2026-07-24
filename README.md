@@ -42,7 +42,7 @@ Durch die Kombination verschiedener KPIs und Visualisierungen ermöglicht das Da
 
 ## Dashboard
 
-Link für Tableau Public: (https://public.tableau.com/views/ShopSphereanalyse/Dashboard1?:language=de-DE&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). 
+Link für Tableau Public: (https://public.tableau.com/views/ShopSphereanalyse/Dashboard1?:language=de-DE&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 Diagramm-Screenshots - ShopShere_project/Tableau/Diagramm_screenshots.md.
 
 ## Wichtigste  Erkenntnisse
