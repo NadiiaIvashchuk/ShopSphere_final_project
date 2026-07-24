@@ -70,7 +70,7 @@ Diagramm-Screenshots - ShopShere_project/Tableau/Diagramm_screenshots.md.
 - Mobile Customer Experience sowie die Vorbereitung auf das Weihnachtsgeschäft priorisieren
 
   
-## Repository-Strukewsatur
+## Repository-Struktur
 
 ```
 data/       hochgeladene CSV
