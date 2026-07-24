@@ -1,3 +1,5 @@
+Tableau link - https://public.tableau.com/views/ShopSphereanalyse/Dashboard1?:language=de-DE&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 1. Monatlicher Umsatz
 <img width="1277" height="781" alt="image" src="https://github.com/user-attachments/assets/bcd41571-b903-4f29-8edf-228c4f01ddfe" />
 
@@ -44,7 +46,8 @@
 <img width="708" height="779" alt="image" src="https://github.com/user-attachments/assets/eae0761a-1a78-4dde-92e1-1e02fd09d42c" />
 
 16. A/B Test des neuen Checkout-Design
-<img width="1368" height="796" alt="image" src="https://github.com/user-attachments/assets/d52f1a7b-8a22-44ba-9bbd-da05ee5eb791" />
+<img width="1353" height="771" alt="image" src="https://github.com/user-attachments/assets/2830243d-fdbc-45a5-b7cd-48040a5cff2f" />
+
 
 
 
