@@ -90,4 +90,4 @@ So kann das Projekt reproduziert werden:
 4. Die erzeugten CSV-Dateien in Tableau Public importieren.
 5. Die Arbeitsmappen öffnen oder das Dashboard anhand der bereitgestellten Visualisierungen nachbauen.
 
-## Autorin - Nadiia Ivashchuk
+#### Autorin - Nadiia Ivashchuk
