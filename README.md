@@ -89,3 +89,5 @@ So kann das Projekt reproduziert werden:
 3. Die SQL-Skripte zur Erstellung der Analyse-Datensätze ausführen.
 4. Die erzeugten CSV-Dateien in Tableau Public importieren.
 5. Die Arbeitsmappen öffnen oder das Dashboard anhand der bereitgestellten Visualisierungen nachbauen.
+
+## Autorin - Nadiia Ivashchuk
